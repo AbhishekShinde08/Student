@@ -1,5 +1,5 @@
 public class Student_info{
-    String name="Ranjita.H.Illur";
+    String name="abhishek";
     String department="BCA";
     String program="BCA";
     public String RegistertedCourse[]={" ","C#","Applied statistics","Java"};
